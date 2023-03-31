@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Library.Form1">
+    <Position X="4.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iQKgAAmQBCAMAEEAiNCAAIqGEACEGEBABBQAAAAsIgA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Library.EditBook">
+    <Position X="2.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIACAAEAECAAABAAEAKQAoCCiAAAEIAAgAFAAAAAACg=</HashCode>
+      <FileName>EditBook.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Library.Book">
+    <Position X="7" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAgiCYAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Book.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="AddBook" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Library.AddBook">
+    <Position X="1" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIACAAEAECIAABAAEBKAIoACCAAAEIAAggEAAAAAACg=</HashCode>
+      <FileName>AddBook.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="EditBook" />
+    </ShowAsAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
