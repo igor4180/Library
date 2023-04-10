@@ -17,22 +17,16 @@
   <Class Name="Library.Book">
     <Position X="7" Y="0.75" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAACAAAAAAAAAAAgiCYAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AAACAAAAAAAAAAAgiAYAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Book.cs</FileName>
     </TypeIdentifier>
-    <ShowAsAssociation>
-      <Property Name="AddBook" />
-    </ShowAsAssociation>
   </Class>
   <Class Name="Library.AddBook">
     <Position X="1" Y="0.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AIACAAEAECIAABAAEBKAIoACCAAAEIAAggEAAAAAACg=</HashCode>
+      <HashCode>AIACAAEAECIAABAAEBKAAoACCAAAEIAAggEAAAAAACg=</HashCode>
       <FileName>AddBook.cs</FileName>
     </TypeIdentifier>
-    <ShowAsAssociation>
-      <Property Name="EditBook" />
-    </ShowAsAssociation>
   </Class>
   <Font Name="Segoe UI" Size="9" />
 </ClassDiagram>
